@@ -1,0 +1,15 @@
+<svg width="52" height="53" viewBox="0 0 52 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mask group">
+<mask id="mask0_603_1020" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="52" height="53">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" d="M2.75 6.1875L2.75 46.8125C2.75 49.0562 4.4849 50.875 6.625 50.875H35.0417C37.1818 50.875 38.9167 49.0562 38.9167 46.8125V6.1875C38.9167 3.94384 37.1818 2.125 35.0417 2.125H6.625C4.4849 2.125 2.75 3.94384 2.75 6.1875Z" fill="#555555" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+<path id="Vector_2" d="M49.25 40.0417V12.9584M38.9166 26.5H49.25" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_603_1020)">
+<path id="Vector_3" d="M-5 59L-5 -6H57L57 59L-5 59Z" fill="#699BF7"/>
+</g>
+</g>
+</svg>
